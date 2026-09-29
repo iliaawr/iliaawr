@@ -1,18 +1,180 @@
-<h1 align="center">Hi 👋, I'm Syafiq Labib</h1>
-<h3 align="center">🎓 Software Engineering Student 💻 Aspiring Software Developer 🌱 Currently learning programming, Linux, and cybersecurity fundamentals. I'm a Software Engineering student interested in understanding how software works from the fundamentals and building things along the way.</h3>
+# 👋 Hi, I'm Syafiq Labib
 
-- 🌱 I’m currently learning **Java,JavaScript,PHP,Python,C,C++**
+🎓 Software Engineering Student
+💻 Aspiring Software Developer
+🌱 Currently learning programming, Linux, and cybersecurity fundamentals.
 
-- 📫 How to reach me **cumicumijawa@gmail.com**
+I'm a Software Engineering student interested in understanding how software works from the fundamentals and building things along the way.
 
-- ⚡ Fun fact **i really love to code**
+---
 
-<p align="left">
-</p>
+## 🧑‍💻 About Me
 
-<h3 align="left">Currently Learning:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+* 🎓 Software Engineering student
+* 💻 Currently learning multiple programming languages
+* 🧠 Focusing on programming fundamentals and problem solving
+* 🐧 Learning Linux fundamentals
+* 🔐 Exploring cybersecurity
+* 🚀 Building small projects to strengthen my understanding
+* 📚 Documenting my learning journey through GitHub
 
+---
 
+## 💻 Languages I'm Learning
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iliaawr&" alt="iliaawr" /></p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+> Currently learning and strengthening the fundamentals of these languages.
+
+---
+
+## 🐧 Linux
+
+Currently learning Linux fundamentals, including:
+
+* Terminal & command line
+* Filesystem
+* File permissions
+* Users & groups
+* Processes
+* Package management
+* Basic networking
+* Shell fundamentals
+
+---
+
+## 🌐 Web Development
+
+Currently exploring web development through:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+
+I'm also learning Laravel and MySQL while building web-based projects.
+
+---
+
+## 📚 What I'm Learning
+
+### Programming Fundamentals
+
+Currently strengthening my understanding of:
+
+`Variables` · `Data Types` · `Conditions` · `Loops` · `Functions` · `Arrays` · `Problem Solving`
+
+### Object-Oriented Programming
+
+Learning the fundamentals of:
+
+`Classes` · `Objects` · `Properties` · `Methods` · `Encapsulation` · `Inheritance` · `Polymorphism`
+
+### Linux Fundamentals
+
+Learning how operating systems work through Linux and becoming more comfortable with the command line.
+
+### Cybersecurity
+
+Exploring cybersecurity from the fundamentals, starting with Linux, networking, and system concepts.
+
+---
+
+## 🚀 Projects & Practice
+
+### ☕ Learning Java
+
+A personal repository documenting my Java learning journey.
+
+Currently focusing on Java fundamentals, programming logic, arrays, and gradually moving into OOP.
+
+---
+
+### ⚙️ Learning C
+
+A learning repository focused on strengthening programming fundamentals using C.
+
+Currently exploring variables, input/output, operators, functions, arrays, memory, and other core concepts.
+
+---
+
+### 📦 Web Skansarpras
+
+A school project for managing school facility borrowing.
+
+**Technologies:**
+`Laravel` · `PHP` · `MySQL` · `Tailwind CSS`
+
+---
+
+## 🗺️ My Current Learning Path
+
+```text
+                Programming Fundamentals
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+        Java             C             C++
+          │              │              │
+          └──────────────┼──────────────┘
+                         ▼
+              Data Structures & Logic
+                         │
+                         ▼
+                  Web Development
+                         │
+                         ▼
+                 Linux Fundamentals
+                         │
+                         ▼
+                  Networking Basics
+                         │
+                         ▼
+                   Cybersecurity
+```
+
+I'm taking a fundamentals-first approach and trying to understand **why things work**, not just how to make them work.
+
+---
+
+## 🎯 Long-Term Goals
+
+* Build strong programming fundamentals
+* Improve problem-solving and logical thinking
+* Become comfortable with multiple programming languages
+* Build real-world applications
+* Understand Linux and computer systems
+* Learn networking fundamentals
+* Develop cybersecurity skills
+* Contribute to open-source projects
+* Keep learning consistently
+
+---
+
+## 📈 Learning Through GitHub
+
+Most of my repositories are part of my learning process.
+
+I use GitHub to:
+
+* Practice programming
+* Document what I learn
+* Build small projects
+* Track my progress
+* Experiment with different technologies
+* Learn from mistakes and improve
+
+---
+
+<div align="center">
+
+### 🌱 Learn → Build → Break → Understand → Improve
+
+Thanks for visiting my profile! 👋
+
+</div>
