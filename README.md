@@ -1,176 +1,180 @@
 # 👋 Hi, I'm Syafiq Labib
 
-🎓 Software Engineering Student from Indonesia
+🎓 Software Engineering Student
 💻 Aspiring Software Developer
-🌱 Currently focused on programming fundamentals, application development, and cybersecurity.
+🌱 Currently learning programming, Linux, and cybersecurity fundamentals.
 
-I enjoy learning how software works from the fundamentals and building projects along the way.
+I'm a Software Engineering student interested in understanding how software works from the fundamentals and building things along the way.
 
 ---
 
 ## 🧑‍💻 About Me
 
 * 🎓 Software Engineering student
-* 💻 Interested in software development and application development
-* 🌱 Currently focusing on Java and C fundamentals
-* 🌐 Learning web development with JavaScript, PHP, and Laravel
+* 💻 Currently learning multiple programming languages
+* 🧠 Focusing on programming fundamentals and problem solving
+* 🐧 Learning Linux fundamentals
 * 🔐 Exploring cybersecurity
-* 🧠 Interested in programming logic, problem solving, and data structures
-* 🚀 Currently building projects while documenting my learning journey
+* 🚀 Building small projects to strengthen my understanding
+* 📚 Documenting my learning journey through GitHub
 
 ---
 
-## 💻 Programming Languages
+## 💻 Languages I'm Learning
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Beginner-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+> Currently learning and strengthening the fundamentals of these languages.
+
+---
+
+## 🐧 Linux
+
+Currently learning Linux fundamentals, including:
+
+* Terminal & command line
+* Filesystem
+* File permissions
+* Users & groups
+* Processes
+* Package management
+* Basic networking
+* Shell fundamentals
 
 ---
 
 ## 🌐 Web Development
 
+Currently exploring web development through:
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+
+I'm also learning Laravel and MySQL while building web-based projects.
 
 ---
 
-## 🛠️ Tools
+## 📚 What I'm Learning
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+### Programming Fundamentals
 
----
+Currently strengthening my understanding of:
 
-## 📚 Currently Learning
+`Variables` · `Data Types` · `Conditions` · `Loops` · `Functions` · `Arrays` · `Problem Solving`
 
-### ☕ Java
+### Object-Oriented Programming
 
-Currently strengthening my Java fundamentals, including:
+Learning the fundamentals of:
 
-* Variables and data types
-* Operators
-* Conditional statements
-* Loops
-* Arrays
-* Methods
-* Object-Oriented Programming
+`Classes` · `Objects` · `Properties` · `Methods` · `Encapsulation` · `Inheritance` · `Polymorphism`
 
-### ⚙️ C
+### Linux Fundamentals
 
-Learning C to strengthen my understanding of programming fundamentals, memory, and how programs work at a lower level.
+Learning how operating systems work through Linux and becoming more comfortable with the command line.
 
-### 🌐 Web Development
+### Cybersecurity
 
-Continuing to improve my skills in:
-
-* HTML
-* CSS
-* JavaScript
-* PHP
-* Laravel
-* MySQL
-
-### 🔐 Cybersecurity
-
-Exploring cybersecurity fundamentals and learning more about Linux, networking, and system security.
+Exploring cybersecurity from the fundamentals, starting with Linux, networking, and system concepts.
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects & Practice
 
 ### ☕ Learning Java
 
-A personal repository documenting my journey learning Java from the fundamentals.
+A personal repository documenting my Java learning journey.
 
-**Topics:**
-`Variables` `Data Types` `Conditions` `Loops` `Arrays` `OOP`
+Currently focusing on Java fundamentals, programming logic, arrays, and gradually moving into OOP.
 
 ---
 
 ### ⚙️ Learning C
 
-A long-term learning repository focused on strengthening programming fundamentals using C.
+A learning repository focused on strengthening programming fundamentals using C.
 
-**Topics:**
-`Variables` `Input/Output` `Operators` `Functions` `Arrays` `Pointers`
+Currently exploring variables, input/output, operators, functions, arrays, memory, and other core concepts.
 
 ---
 
 ### 📦 Web Skansarpras
 
-A school facility borrowing management system built with Laravel and MySQL.
+A school project for managing school facility borrowing.
 
 **Technologies:**
-`Laravel` `PHP` `MySQL` `Tailwind CSS`
+`Laravel` · `PHP` · `MySQL` · `Tailwind CSS`
 
 ---
 
-## 🗺️ My Learning Journey
+## 🗺️ My Current Learning Path
 
 ```text
-Programming Fundamentals
-          │
-          ├── C
-          ├── C++
-          └── Java
-                 │
-                 ▼
-       Data Structures & Algorithms
-                 │
-                 ▼
-          Web Development
-                 │
-          ┌──────┴──────┐
-          ▼             ▼
-     Web Apps       Application Dev
-          │
-          ▼
-      Cybersecurity
+                Programming Fundamentals
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+        Java             C             C++
+          │              │              │
+          └──────────────┼──────────────┘
+                         ▼
+              Data Structures & Logic
+                         │
+                         ▼
+                  Web Development
+                         │
+                         ▼
+                 Linux Fundamentals
+                         │
+                         ▼
+                  Networking Basics
+                         │
+                         ▼
+                   Cybersecurity
 ```
 
-My current priority is understanding the fundamentals instead of rushing into advanced technologies.
+I'm taking a fundamentals-first approach and trying to understand **why things work**, not just how to make them work.
 
 ---
 
-## 🎯 Goals
+## 🎯 Long-Term Goals
 
 * Build strong programming fundamentals
-* Improve logical thinking and problem solving
-* Become comfortable with Java and C
-* Build useful web and application projects
-* Learn data structures and algorithms
-* Understand cybersecurity fundamentals
+* Improve problem-solving and logical thinking
+* Become comfortable with multiple programming languages
+* Build real-world applications
+* Understand Linux and computer systems
+* Learn networking fundamentals
+* Develop cybersecurity skills
 * Contribute to open-source projects
-* Keep improving consistently
+* Keep learning consistently
 
 ---
 
-## 📈 GitHub Activity
+## 📈 Learning Through GitHub
 
-Most of my repositories are part of my learning journey, where I practice concepts, build small projects, experiment with technologies, and document my progress.
+Most of my repositories are part of my learning process.
 
-You can explore my repositories to see how my projects and programming skills develop over time.
+I use GitHub to:
 
----
-
-## 📫 Contact
-
-**GitHub:** [@iliaawr](https://github.com/iliaawr)
+* Practice programming
+* Document what I learn
+* Build small projects
+* Track my progress
+* Experiment with different technologies
+* Learn from mistakes and improve
 
 ---
 
 <div align="center">
 
-### 🌱 Still Learning. Still Building. Still Improving.
+### 🌱 Learn → Build → Break → Understand → Improve
 
-**Thanks for visiting my profile! 👋**
+Thanks for visiting my profile! 👋
 
 </div>
