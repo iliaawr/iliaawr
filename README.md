@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **i really love to code**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
